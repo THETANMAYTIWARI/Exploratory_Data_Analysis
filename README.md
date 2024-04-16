@@ -1,6 +1,6 @@
 
 ## Title:
-Impact of Covid-19 in India
+Reach of Covid-19 in India
 
 ## Description:
 This repository hosts a comprehensive analysis of the impact of the COVID-19 pandemic across various states in India. Through meticulous data collection, preprocessing, and exploratory data analysis techniques, this project aims to provide insights into the spread of the virus, recovery rates, mortality rates, and vaccination progress. By leveraging publicly available datasets on COVID-19 cases and vaccinations, we delve into understanding the disparities in infection rates, healthcare capacities, and the effectiveness of public health interventions across different states.
