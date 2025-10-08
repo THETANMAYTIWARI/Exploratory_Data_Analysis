@@ -1,8 +1,8 @@
 ## 🦠 REACH of COVID-19 in India
 ### 📌 Overview
-```
+
 This project analyzes and visualizes the spread, impact, and vaccination trends of COVID-19 in India using Exploratory Data Analysis (EDA) and Machine Learning.
-```
+
 
 ### 🎯 Objectives
 ```
