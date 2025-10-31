@@ -70,14 +70,6 @@ A&N Islands → top recovery rate
 Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
 ```
 
-### 📁 Structure
-```
-📦 REACH-of-COVID-19
-│── REACH of COVID-19.ipynb
-│── covid_19_india (1).csv
-│── district_level_latest.csv
-│── covid_vaccine_statewise.csv
-└── README.md
 
 ```
 
