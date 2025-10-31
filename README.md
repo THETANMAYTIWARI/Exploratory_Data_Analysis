@@ -71,8 +71,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
 ```
 
 
-```
-
 ### 📈 Future Work
 ```
 Real-time data via API
