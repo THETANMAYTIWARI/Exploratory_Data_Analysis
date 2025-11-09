@@ -72,7 +72,7 @@ This project analyzes and visualizes the spread, impact, and vaccination trends 
 
 
 ### 📈 Future Work
-```
-Real-time data via API
-Interactive dashboard (Streamlit/Power BI)
-```
+
+* Real-time data via API
+* Interactive dashboard (Streamlit/Power BI)
+
