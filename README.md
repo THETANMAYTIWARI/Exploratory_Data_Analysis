@@ -5,70 +5,70 @@ This project analyzes and visualizes the spread, impact, and vaccination trends 
 
 
 ### 🎯 Objectives
-```
-Study state/district-wise COVID-19 spread
 
-Evaluate recovery & mortality rates
+* Study state/district-wise COVID-19 spread
 
-Analyze vaccination progress
+* Evaluate recovery & mortality rates
 
-Predict vaccination trends with ML models
-```
+* Analyze vaccination progress
+
+* Predict vaccination trends with ML models
+
 
 ### 🧩 Datasets
-```
-covid_19_india (1).csv – State-wise cases
 
-district_level_latest.csv – District-level stats
+* covid_19_india (1).csv – State-wise cases
 
-covid_vaccine_statewise.csv – Vaccination data
-```
+* district_level_latest.csv – District-level stats
+
+* covid_vaccine_statewise.csv – Vaccination data
+
 
 
 ### 🧹 Preprocessing
-```
-Removed irrelevant columns & handled nulls
 
-Corrected state names
+* Removed irrelevant columns & handled nulls
 
-Added computed metrics: Recovery, Mortality, Active Cases
-```
+* Corrected state names
+
+* Added computed metrics: Recovery, Mortality, Active Cases
+
 
 ### 📊 Analysis Highlights
-```
-State & district-wise case distribution
 
-Time-series trends (1st & 2nd wave)
+* State & district-wise case distribution
 
-Gender & age-based vaccination insights
+* Time-series trends (1st & 2nd wave)
 
-Vaccine type comparison (Covaxin vs Covishield)
-```
+* Gender & age-based vaccination insights
+
+* Vaccine type comparison (Covaxin vs Covishield)
+
 
 ### 🤖 Models Used
 
-```
-Model	Purpose
-Linear Regression	Baseline trend prediction
-Random Forest	High-accuracy ensemble model
-Bayesian Ridge	Probabilistic, stable results
-```
+
+* Model	Purpose
+* Linear Regression	Baseline trend prediction
+* Random Forest	High-accuracy ensemble model
+* Bayesian Ridge	Probabilistic, stable results
+
 
 ### 🧠 Key Insights
-```
-Maharashtra, Kerala, Karnataka → highest cases
 
-Punjab → high mortality rate
+* Maharashtra, Kerala, Karnataka → highest cases
 
-A&N Islands → top recovery rate
+* Punjab → high mortality rate
 
-18–44 age group → most vaccinated
-```
+* A&N Islands → top recovery rate
+
+* 18–44 age group → most vaccinated
+
 
 ### ⚙️ Tech Stack
-```
-Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
-```
+
+* Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
+
 
 
 ### 📈 Future Work
